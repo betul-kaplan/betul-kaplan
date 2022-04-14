@@ -6,12 +6,12 @@
 
 ### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end development.
+I am AWS -DEVOPS Traniee
 <br/>
 
 - Python, HTML5,Linux, Git, GitHub ,Jira ,Agile
 
-- 💬 Ask  me about anything that you want to learn
+
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/bet%C3%BCl-kaplan-1a6a2b22a/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
