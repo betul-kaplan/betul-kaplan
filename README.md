@@ -43,6 +43,6 @@ I am AWS -DEVOPS Traniee
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Betul-Kaplan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Betul-Kaplan&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Betul-kaplan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betul-Kaplan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
