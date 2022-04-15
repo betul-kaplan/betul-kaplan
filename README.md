@@ -9,7 +9,7 @@
 I am AWS -DEVOPS Traniee
 <br/>
 
-- Python, HTML5,Linux, Git, GitHub ,Jira ,Agile
+- Python, HTML5 , CSS , Linux , Git  GitHub , Jira , Agile , SQL
 
 
 
