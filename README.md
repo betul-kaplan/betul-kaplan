@@ -6,7 +6,7 @@
 
 ### What I'm using ? 🛠
 
-I am AWS -DEVOPS Traniee
+I am AWS -DEVOPS 
 <br/>
 
 - Python, HTML5 , CSS , Linux , Git  GitHub , Jira , Agile , SQL
