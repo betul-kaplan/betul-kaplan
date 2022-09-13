@@ -9,7 +9,7 @@
 I am AWS -DEVOPS 
 <br/>
 
-- Python, HTML5 , CSS , Linux , Git  GitHub , Jira , Agile , SQL , AWS , Terraform , Docker , Kubernets
+- Python, HTML5 , CSS , Linux , Git , GitHub , Jira , Agile , SQL , AWS , Terraform , Docker , Kubernets ,Ansible , Maven , Nexus
 
 
 
